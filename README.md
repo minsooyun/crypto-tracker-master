@@ -22,3 +22,4 @@ Coinpaprika 에서 제공하는 다양한 Coin Api를 이용하여 암호화폐 
 - light와 dark로 테마를 전환
 
 ### Preview
+![암호화폐시세트래커](https://github.com/minsooyun/crypto-tracker-master/assets/147911827/f86cb40f-9dcb-44e5-a488-a49e1e82bb8f)
